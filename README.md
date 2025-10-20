@@ -4,7 +4,7 @@ Welcome! I'm a product developer with a passion for building impactful digital t
 
 ## 👨‍💼 About Me
 
-- **Role:** Principal at [superbasic.xyz](https://superbasic.xyz)
+- **Role:** Principal at [superbasic.xyz](https://www.superbasic.xyz)
 - **Skills:** Ruby, Python, Swift, Typescript, Ansible, and more
 - **Interests:** Generative AI & MLOps
 
