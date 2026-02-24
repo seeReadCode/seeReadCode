@@ -1,6 +1,6 @@
 # seeReadCode / Principal at [superbasic.xyz](https://superbasic.xyz)
 
-Welcome! I am a ML-focused, community-minded, scale-conscious developer seeking high stakes collaborative projects to draw on my wide experience across digital products and systems. I have worked with clients like JPMC, the Institute for Advanced Study, Vice, the Environmental Defense Fund, the Museum of Contemporary Art Chicago, and the United 
+Welcome! I am a full stack, community-minded, scale-conscious developer seeking high impact collaborative projects to draw on my wide ranging experience across digital products and systems. I have worked with clients like JPMC, the Institute for Advanced Study, Vice, the Environmental Defense Fund, the Museum of Contemporary Art Chicago, and the United 
 Nations.
 
 [Check out my recent bookmarks](https://seereadcode.github.io/bookmarks/)
@@ -8,8 +8,9 @@ Nations.
 ## 👨‍💼 About Me
 
 - **Work:** Principal at [superbasic.xyz](https://www.superbasic.xyz)
-- **Skills:** Ruby, Python, Swift, Typescript, Ansible, and more
-- **Interests:** GenAI & MLOps, devcontainers,  
+- **Interests:** Agent UX, MLOps, human factors, organizational design, complexity and scale, observability and response
+- **Prefers:** declarative syntax, vim bindings, hotkeys
+- **Enjoys:** cycling, yoga, cooking, books
 
 ## 🚀 Featured Project
 
@@ -22,15 +23,6 @@ Nations.
 - **LinkedIn:** [linkedin.com/in/seeread](http://linkedin.com/in/seeread)
 - **Website:** [superbasic.xyz](https://www.superbasic.xyz)
 
-## 🛠️ Languages & Tools
-
-- Ruby
-- Python
-- Swift
-- Typescript
-- Ansible
-- ...and more
-
 ## 📫 Contact
 
-Feel free to connect with me on [LinkedIn](http://linkedin.com/in/seeread),
+Drop me a line on [LinkedIn](http://linkedin.com/in/seeread),
