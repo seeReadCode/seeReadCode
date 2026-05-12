@@ -25,4 +25,4 @@ Nations.
 
 ## 📫 Contact
 
-Drop me a line on [LinkedIn](http://linkedin.com/in/seeread),
+Drop me a line on [LinkedIn](http://linkedin.com/in/seeread).
