@@ -10,7 +10,7 @@ Nations.
 - **Work:** Principal at [superbasic.xyz](https://www.superbasic.xyz)
 - **Interests:** Agent UX, MLOps, human factors, organizational design, complexity and scale, observability and response
 - **Prefers:** declarative syntax, vim bindings, hotkeys
-- **Enjoys:** cycling, yoga, cooking, books
+- **Enjoys:** swimming, biking, yoga, books, cooking
 
 ## 🚀 Featured Project
 
