@@ -1,7 +1,6 @@
 # seeReadCode / Principal at [superbasic.xyz](https://superbasic.xyz)
 
-Welcome! I am a full stack, community-minded, scale-conscious developer seeking high impact collaborative projects to draw on my wide ranging experience across digital products and systems. I have worked with clients like JPMC, the Institute for Advanced Study, Vice, the Environmental Defense Fund, the Museum of Contemporary Art Chicago, and the United 
-Nations.
+Welcome! I am a scale-conscious, community-minded, full stack developer seeking high impact, collaborative projects. I have worked with clients like JPMC, the Institute for Advanced Study, Vice, the Environmental Defense Fund, the Museum of Contemporary Art Chicago, and the United Nations.
 
 [Check out my recent bookmarks](https://seereadcode.github.io/bookmarks/)
 
